@@ -18,7 +18,7 @@ This project is for learning Git team work, branch management, and conflict reso
 |------|------------|------|
 | qinhao | 20242229 | Team Leader |
 | Fu Jiasen| 20242216 | Member |
-| Charlie | 2024003 | Member |
+| Gehan | 20242221 | Moses |
 
 ### Keyboard Shortcuts
 - Copy: <kbd>Ctrl</kbd> + <kbd>C</kbd>
