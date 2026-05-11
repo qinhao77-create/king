@@ -17,7 +17,7 @@ This project is for learning Git team work, branch management, and conflict reso
 | Name | Student ID | Role |
 |------|------------|------|
 | qinhao | 20242229 | Team Leader |
-| Bob | 2024002 | Member |
+| Fu Jiasen| 20242216 | Member |
 | Charlie | 2024003 | Member |
 
 ### Keyboard Shortcuts
